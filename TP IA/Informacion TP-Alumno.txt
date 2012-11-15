@@ -1,0 +1,10 @@
+Nombre: Mariano Gonzalez Elias
+Padron: 78156
+
+--------------------------------------------------
+TP1: Algoritmos geneticos
+cARPETA: IA-TP1-2010-C1
+
+--------------------------------------------------
+TP2: Sistema de produccion
+CARPETA: IA-TP2-2010-C1
